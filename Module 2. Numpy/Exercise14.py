@@ -1,6 +1,7 @@
-# Case: By using list comprehension, please write a program to print the list after removing delete numbers 
-# which are divisible by 5 and 7 in [12,24,35,70,88,120,155]. 
+Question:
+Create a NumPy array of integers from 1 to 10. Then, use slicing to extract the elements from index 2 to index 5 (inclusive) and print the result.
 
-li=[12,24,35,24,88,120,155,88,120,155]
-li = [x for x in li if x!=24] #.append first in list comprehension and than conditional statement
-print(li)
+Expected Output:
+An array with elements [3, 4, 5, 6].
+
+This question covers creating a basic array and applying slicing techniques, which are foundational skills in NumPy.
