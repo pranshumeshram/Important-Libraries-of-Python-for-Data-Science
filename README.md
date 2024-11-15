@@ -1,4 +1,4 @@
-##Important Libraries of Python for Data Science##
+#Important Libraries of Python for Data Science#
 
 Welcome to Important Libraries of Python for Data Science! This repository provides an introduction to key Python libraries for data science, with modules covering essential tools for data manipulation, numerical computation, and data visualization.
 
